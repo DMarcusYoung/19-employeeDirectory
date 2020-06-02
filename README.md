@@ -10,4 +10,4 @@ The application is uses react.js and JSX with semantic ui react as the design fr
 The biggest challenge was getting the sorting and filtering to work. Using the semantic ui elements were a little tricky and some didn't work for reasons not mentioned in their documnetation. I also ran into infinite state rerenders a few too many times.
   
 ## Screenshots
-![Employee Directory Screenshot]()
+![Employee Directory Screenshot](https://github.com/DMarcusYoung/19-employeeDirectory/blob/master/employee-directory/employeeDirectoryScreenshot.PNG)
